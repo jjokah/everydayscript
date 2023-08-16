@@ -6,6 +6,7 @@ and saves the transcription as TXT and SRT
 Requirements:
 sudo apt update && sudo apt install ffmpeg
 pip install -U openai-whisper
+pip install moviepy
 """
 import whisper
 from moviepy.editor import VideoFileClip
