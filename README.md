@@ -1,7 +1,2 @@
-# ALGORITHMS
-This is a collection of different algorithms around the globe (written and reviewed by jjokah)
-
-## Algorithm Category
-- [Project Euler](https://github.com/jjokah/algorithms/tree/main/project_euler)
-- [Audio](https://github.com/jjokah/algorithms/tree/main/audio)
-- [Download](https://github.com/jjokah/algorithms/tree/main/download)
+# EVERYDAY SCRIPT
+A collection of simple scripts to solve some of my everyday problems and automate the boring stuff. It also include some fun-hacks.
