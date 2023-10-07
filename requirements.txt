@@ -1,1 +1,4 @@
-pytest
+yt-dlp
+tqdm
+moviepy
+openai-whisper
