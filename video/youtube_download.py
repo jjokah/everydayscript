@@ -15,7 +15,7 @@ def download_youtube_video(url, download_path):
     ydl.download([url])
 
 if __name__ == '__main__':
-  url = 'https://youtu.be/eyxw3nLbF18'
+  url = 'https://www.youtube.com/watch?v=F4tvM4Vb3A0&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU&index=2'
   download_path = '/home/jjokah/Videos'
   
   download_youtube_video(url, download_path)

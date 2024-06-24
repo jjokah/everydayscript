@@ -23,14 +23,14 @@ from moviepy.editor import VideoFileClip
 video = VideoFileClip("video.mp4")
 
 # Define the start and end times of the desired clip in seconds
-start_time = "00:08:28"
-end_time = "00:09:29"
+start_time = "00:09:27"
+end_time = "00:09:55"
 
 # Extract the desired clip
 clip = video.subclip(start_time, end_time)
 
 # Set the output video parameters
-clip = clip.resize(height=360)  # resize the height to 360 pixels
+# clip = clip.resize(height=360)  # resize the height to 360 pixels
 
 # Write the output video
 clip.write_videofile("clip.mp4")

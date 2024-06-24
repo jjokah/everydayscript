@@ -2,3 +2,6 @@ yt-dlp
 tqdm
 moviepy
 openai-whisper
+spacy
+deep-translator
+pysrt
